@@ -2,11 +2,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&width=500&repeat=false&lines=Hey%20%F0%9F%91%8B;I%27m%20Gemachis%20Tesfaye" alt="Typing SVG" />
 </h1>
 
-<h2 align="center" style="margin-top: -10px;">
+<h2 align="center" style="margin-top: -5px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&delay=6000&color=FF6F61&center=true&vCenter=true&width=500&lines=Information%20Science%20Student;Aspiring%20Data%20Analyst%20%26%20Frontend%20Developer;Passionate%20about%20Design%20%26%20Innovation" alt="Typing SVG" />
 </h2>     
 
----
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
+<!-- Right-aligned coding GIF -->
+<img align="right" alt="Coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+
+<!-- GitHub Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=urjiiko1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
 
 ## 👨‍🎓 About Me  
 
@@ -17,7 +28,7 @@
 - 🌱 Learning: **Python**, **JavaScript (React.js)** and **Power BI**
 - 📊 Skilled in: **Database Design**, **Data Cleaning**, **Visualization**, **Responsive Frontends**  
 - 👯 Open to collaborate on: **Data Dashboards**, **SQL/MongoDB systems** and **Animated UI projects**  
-- 💬 Ask me about: **Power BI, SQL, MongoDB, CSS animations, Data Dashboards**  
+- 💬 Ask me about: **Power BI, SQL, MongoDB, CSS animations Data Dashboards**  
 - 🎯 Goal: To grow into a **Data Analyst & Frontend Developer**
 - 📫 Reach me at: [gemachistesfaye36@example.com](mailto:gemachistesfaye36@example.com)  
 
@@ -64,7 +75,7 @@ A modern, **glassmorphism-styled login system** with CSS animations.
 - 🚴 Animated girl SVG  
 - 💬 Toast messages for login/signup  
 
->▶️ **Live Demo:** [View Project Live Here](https://urjiiko1.github.io/code-craft/CSS02/) 🌐  
+> ▶️ **Live Demo:** [View Project Live Here](https://urjiiko1.github.io/code-craft/CSS02/) 🌐  
 
 ---
 
@@ -75,7 +86,7 @@ My **first Python web app** (built in Nehase 2017).
 - 🖥️ Built with Python & simple web framework  
 - 📚 Inspired my journey into programming  
 
->▶️ **Live Demo:** [View Project Live Here](https://grade-evaluator.onrender.com/) 🌐
+> ▶️ **Live Demo:** [View Project Live Here](https://grade-evaluator.onrender.com/) 🌐
 
 ---
 
@@ -86,7 +97,7 @@ A **modern responsive portfolio** to showcase my projects, skills and journey.
 - 🎨 Responsive design with clean UI  
 - 🚀 Deployed on **GitHub Pages**  
 
->▶️ **Live Demo:** [Visit My Portfolio](https://urjiiko1.github.io/Portfolio) 🌐  
+> ▶️ **Live Demo:** [Visit My Portfolio](https://urjiiko1.github.io/Portfolio) 🌐  
 
 ---
 
@@ -122,7 +133,7 @@ A **modern responsive portfolio** to showcase my projects, skills and journey.
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="Power BI"/>
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 ## 📊 GitHub Stats 
 
